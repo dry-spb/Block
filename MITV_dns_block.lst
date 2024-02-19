@@ -25,7 +25,6 @@ android.apis.google.com
 dl.google.com
 embeddedassistant.googleapis.com
 mtalk.google.com
-time.android.com
 play.googleapis.com
 fcm.googleapis.com
 clients3.google.com
@@ -66,3 +65,7 @@ crl4.digicert.com
 connectivitycheck.gstatic.com
 pubsub.plex.tv
 cdn.awsind0-fusion.fds.api.mi-img.com
+time.android.com
+pubsub.plex.tv
+crl4.digicert.com
+android-safebrowsing.google.com
