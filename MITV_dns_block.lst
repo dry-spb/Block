@@ -22,11 +22,9 @@ playatoms-pa.googleapis.com
 www.googleapis.com^
 android.clients.google.com
 android.apis.google.com
-dl.google.com
 embeddedassistant.googleapis.com
 mtalk.google.com
 play.googleapis.com
-fcm.googleapis.com
 clients3.google.com
 chromesyncpasswords-pa.googleapis.com
 notifications-pa.googleapis.com
@@ -66,3 +64,5 @@ together.plex.tv
 play.provider.plex.tv
 pubsub.plex.tv
 analytics.plex.tv
+dl.google.com
+fcm.googleapis.com
