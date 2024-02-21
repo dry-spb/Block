@@ -61,3 +61,12 @@
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 pkgautoupdate.synology.com
 0.0.0.0 sentry.letsnova.ru
+0.0.0.0 collectorupdate7.synology.com
+0.0.0.0 cnr.re.cs.quickconnect.to
+0.0.0.0 frr.re.cs.quickconnect.to
+0.0.0.0 usr.re.cs.quickconnect.to
+0.0.0.0 twr.re.cs.quickconnect.to
+0.0.0.0 regions.re.cs.quickconnect.to
+0.0.0.0 sgr.re.cs.quickconnect.to
+0.0.0.0 der.re.cs.quickconnect.to
+0.0.0.0 relayinfo.quickconnect.to
