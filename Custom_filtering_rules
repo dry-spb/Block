@@ -177,3 +177,4 @@
 ||dl.google.com^$client='192.168.0.250'
 ||fcm.googleapis.com^$client='192.168.0.250'$client='192.168.0.250'
 ||_32400._https.plex.ecm-control.kz^
+||login.live.com^$important
