@@ -326,6 +326,16 @@ https://raw.githubusercontent.com/dry-spb/Block/main/blockSyno
 @@||checkip.synology.com^$client='192.168.0.114'
 ||login.live.com^$important
 ||checkipv6.synology.com^$important
+@@||bt3.t-ru.org^
+||www.synology.com^$important
+@@||chromesyncpasswords-pa.googleapis.com^$important
+@@||toptracker.ru^$important
+@@||tracker.filemail.com^$important
+@@||p4p.arenabg.com^$important
+@@||exodus.desync.com^$important
+@@||explodie.org^$important
+@@||open.stealth.si^$important
+@@||tracker.opentrackr.org^$important
 
 
 
