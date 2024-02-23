@@ -172,6 +172,7 @@ https://raw.githubusercontent.com/dry-spb/Block/main/blockSyno
 @@||www.googleapis.com^$client='192.168.0.114'
 @@||www.googleapis.com^$client='192.168.0.110'
 @@||www.googleapis.com^$client='192.168.0.111'
+@@||www.googleapis.com^$client='192.168.0.112'
 @@||checkip.dyndns.org^$client='192.168.0.111'
 @@||checkip.dyndns.org^$client='192.168.0.110'
 @@||checkip.dyndns.org^$client='192.168.0.114'
@@ -210,6 +211,13 @@ https://raw.githubusercontent.com/dry-spb/Block/main/blockSyno
 @@||accounts.doubleclick.net^$client='192.168.0.120'
 @@||embeddedassistant.googleapis.com^$client='192.168.0.115'
 @@||embeddedassistant.googleapis.com^$client='192.168.0.120'
+@@||embeddedassistant.googleapis.com^$client='192.168.0.115'
+@@||embeddedassistant.googleapis.com^$client='192.168.0.120'
+@@||plex.tka4.synology.me^$important
+@@||rschmidtsheetmusic.keenetic.pro^$important
+@@||plex.ecm-control.kz^$important
+@@||www.youtube.com^$important
+@@||update.dnsexit.com^$important
 ||iritual.ru^$important
 ||i101.fastpic.org^$important
 ||i66.fastpic.ru^$client='192.168.0.1'
@@ -227,3 +235,9 @@ https://raw.githubusercontent.com/dry-spb/Block/main/blockSyno
 ||lh3.google.com^$important
 ||addons-pa.clients6.google.com^$important
 ||aa.google.com^$important
+||m6rl2.shop^$important
+||y2kkm.shop^$important
+||gamabit10.shop^$important
+||tinkof.shop^$important
+||us1-usndr.com^$important
+||yandex.digital-services.solutions^$important
