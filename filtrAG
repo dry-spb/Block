@@ -198,6 +198,13 @@ https://raw.githubusercontent.com/dry-spb/Block/main/blockSyno
 @@||ndrsite.neocities.org^$client='192.168.0.1'
 @@||ndrsite.neocities.org^$client='192.168.0.117'
 @@||ndrsite.neocities.org^$client='192.168.0.116'
-
-
-
+@@||optimizationguide-pa.googleapis.com^$client='192.168.0.115'
+@@||mtalk.google.com^$client='192.168.0.115'
+@@||lh3.googleusercontent.com^$client='192.168.0.115'
+@@||www.gstatic.com^$client='192.168.0.115'
+@@||optimizationguide-pa.googleapis.com^$client='192.168.0.120'
+@@||mtalk.google.com^$client='192.168.0.120'
+@@||lh3.googleusercontent.com^$client='192.168.0.120'
+@@||www.gstatic.com^$client='192.168.0.120'
+@@||accounts.doubleclick.net^$client='192.168.0.115'
+@@||accounts.doubleclick.net^$client='192.168.0.120'
