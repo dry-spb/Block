@@ -8,7 +8,10 @@ certs.yoomoney.ru
 firebaseinstallations.googleapis.com
 geller-pa.googleapis.com
 www.gstatic.com
+gstatic.com
 www.baidu.com
+www.googleapis.com
+googleapis.com
 android.googleapis.com
 stackoverflow.com
 cyberresilience.io
@@ -54,7 +57,6 @@ alt3-mtalk.google.com
 android-safebrowsing.google.com
 crl4.digicert.com
 cdn.awsind0-fusion.fds.api.mi-img.com
-crl4.digicert.com
 android-safebrowsing.google.com
 community.plex.tv
 features.plex.tv
