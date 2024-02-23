@@ -24,3 +24,4 @@ webmail.sberbank.ru
 node6.online.sberbank.ru
 mail.sberbank.ru
 mpclickstream.online.sberbank.ru
+vito.sbrf.ru
