@@ -155,28 +155,26 @@ https://raw.githubusercontent.com/dry-spb/Block/main/blockSyno
 ||google.com^$client='192.168.0.114'
 ||google.com^$client='192.168.0.116'
 ||google.com^$client='192.168.0.117'
-||connectivitycheck.gstatic.com^$client='192.168.0.116'
-||connectivitycheck.gstatic.com^$client='192.168.0.117'
 ||api.github.com^$client='192.168.0.111'
 ||api.github.com^$client='192.168.0.110'
 ||api.github.com^$client='192.168.0.114'
+||api.github.com^$client='192.168.0.116'
+||api.github.com^$client='192.168.0.117'
 ||github.com^$client='192.168.0.111'
 ||github.com^$client='192.168.0.110'
 ||github.com^$client='192.168.0.114'
+||github.com^$client='192.168.0.116'
+||github.com^$client='192.168.0.117'
 ||codeload.github.com^$client='192.168.0.111'
 ||codeload.github.com^$client='192.168.0.110'
 ||codeload.github.com^$client='192.168.0.114'
+||www.taobao.com^$important
 @@||www.googleapis.com^$client='192.168.0.114'
 @@||www.googleapis.com^$client='192.168.0.110'
 @@||www.googleapis.com^$client='192.168.0.111'
 @@||checkip.dyndns.org^$client='192.168.0.111'
 @@||checkip.dyndns.org^$client='192.168.0.110'
 @@||checkip.dyndns.org^$client='192.168.0.114'
-@@||lh3.googleusercontent.com^$client='192.168.0.115'
-@@||www.googleapis.com^$client='192.168.0.115'
-@@||mtalk.google.com^$client='192.168.0.115'
-@@||clientservices.googleapis.com^$client='192.168.0.115'
-@@||www.gstatic.com^$client='192.168.0.115'
 @@||open.acgtracker.com^$client='192.168.0.110'
 @@||opentor.org^$client='192.168.0.110'
 @@||tracker.coppersurfer.tk^$client='192.168.0.110'
@@ -185,12 +183,10 @@ https://raw.githubusercontent.com/dry-spb/Block/main/blockSyno
 @@||tracker.tiny-vps.com^$client='192.168.0.110'
 @@||tracker.torrent.eu.org^$client='192.168.0.110'
 @@||tracker.openbittorrent.com^$client='192.168.0.110'
-@@||connectivitycheck.gstatic.com^$client='192.168.0.120'
 @@||checkip.synology.com^$client='192.168.0.111'
 @@||checkip.synology.com^$client='192.168.0.110'
 @@||checkip.synology.com^$client='192.168.0.114'
 @@||bt3.t-ru.org^
-@@||chromesyncpasswords-pa.googleapis.com^$important
 @@||toptracker.ru^$important
 @@||tracker.filemail.com^$important
 @@||p4p.arenabg.com^$important
@@ -198,7 +194,10 @@ https://raw.githubusercontent.com/dry-spb/Block/main/blockSyno
 @@||explodie.org^$important
 @@||open.stealth.si^$important
 @@||tracker.opentrackr.org^$important
-
+@@||chromesyncpasswords-pa.googleapis.com^$important
+@@||ndrsite.neocities.org^$client='192.168.0.1'
+@@||ndrsite.neocities.org^$client='192.168.0.117'
+@@||ndrsite.neocities.org^$client='192.168.0.116'
 
 
 
