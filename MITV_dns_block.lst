@@ -22,6 +22,7 @@ ru.tv.global.mi.com
 speechs3proto2-pa.googleapis.com
 playatoms-pa.googleapis.com
 www.googleapis.com^
+googleapis.com^
 android.clients.google.com
 android.apis.google.com
 embeddedassistant.googleapis.com
@@ -65,3 +66,4 @@ analytics.plex.tv
 dl.google.com
 fcm.googleapis.com
 deviceintegritytokens-pa.googleapis.com
+us.pdc.micloud.xiaomi.net
