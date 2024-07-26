@@ -1,0 +1,256 @@
+###Active Insight##
+api.insight.synology.com
+collectorupdate7.synology.com
+collectorautoupdate7.synology.com
+collectorautoupdate7.synology.cn
+subscribe.insight.synology.com
+supapi.synology.com
+###Сайт для скачивания обновления DSM###
+global.download.synology.com
+global.synologydownload.com
+update7.synology.com
+autoupdate7.synology.com
+global.download.synology.com
+global.synologydownload.com
+update.synology.com
+autoupdate.synology.com
+autoupdate7.synology.cn
+###Центр пакетов###
+#payment.synology.com
+#account.synology.com
+#cndl.synology.cn
+global.download.synology.com
+download.synology.com
+#www.synology.com
+#www.synology.com/company/term_packagecenter.php
+pkgautoupdate7.synology.com
+pkgautoupdate7.synology.cn
+pkgupdate7.synology.com
+pkgautoupdate.synologyupdate.com
+#global.synologydownload.com
+#payment.synology.com
+#keymaker.synology.com
+#timestamp.synology.com
+#account.synology.com
+#cndl.synology.cn
+global.download.synology.com
+download.synology.com
+#www.synology.com
+#www.synology.com/company/term_packagecenter.php
+pkgautoupdate.synology.com
+pkgautoupdate.synology.cn
+pkgupdate.synology.com
+#global.synologydownload.com
+###Проверка уровня доверия пакетов###
+keymaker.synology.com
+###Резервное копирование конфигурации###
+synoconf.synology.com
+synoconfkms.synology.com
+###DDNS###
+#account.synology.com
+#ddns.synology.com
+###Анализатор внешнего IP -адреса###
+#checkip.synology.com
+#checkip.dyndns.org
+#checkipv6.synology.com
+###Обмен файлами###
+#gofile.me
+###Справка###
+help.synology.com
+###Тестирование подключения порта(порт 82)###
+checkport.synology.com
+###Push-служба###
+sns.synology.com
+notification.synology.com
+###QuickConnect###
+#global.quickconnect.to
+#global.quickconnect.cn
+#usc.quickconnect.to
+#dec.quickconnect.to
+#cnc.quickconnect.cn
+#orlp.lp.cs.quickconnect.to
+#uslp.lp.cs.quickconnect.to
+#frlp.lp.cs.quickconnect.to
+#cnlp.lp.cs.quickconnect.cn
+#cnp1.punch.cs.quickconnect.cn
+#cnp2.punch.cs.quickconnect.cn
+#typ1.punch.cs.quickconnect.to
+#typ2.punch.cs.quickconnect.to
+#orp1.punch.cs.quickconnect.to
+#orp2.punch.cs.quickconnect.to
+#frp1.punch.cs.quickconnect.to
+#frp2.punch.cs.quickconnect.to
+#frp3.punch.cs.quickconnect.to
+#frp4.punch.cs.quickconnect.to
+#signal1.cn.webrtc.quickconnect.cn
+#signal2.cn.webrtc.quickconnect.cn
+#signal1.fr.webrtc.quickconnect.to
+#signal2.fr.webrtc.quickconnect.to
+#signal3.fr.webrtc.quickconnect.to
+#signal4.fr.webrtc.quickconnect.to
+#signal1.or.webrtc.quickconnect.to
+#signal2.or.webrtc.quickconnect.to
+#signal1.ty.webrtc.quickconnect.to
+#signal2.ty.webrtc.quickconnect.to
+#twr1.re.cs.quickconnect.to
+#twr2.re.cs.quickconnect.to
+#twr3.re.cs.quickconnect.to
+#twr4.re.cs.quickconnect.to
+#twr5.re.cs.quickconnect.to
+#twr6.re.cs.quickconnect.to
+#czr3.re.cs.quickconnect.to
+#czr4.re.cs.quickconnect.to
+#czr5.re.cs.quickconnect.to
+#der5.re.cs.quickconnect.to
+#der6.re.cs.quickconnect.to
+#der8.re.cs.quickconnect.to
+#der9.re.cs.quickconnect.to
+#frr1.re.cs.quickconnect.to
+#frr2.re.cs.quickconnect.to
+#frr3.re.cs.quickconnect.to
+#frr4.re.cs.quickconnect.to
+#sgr3.re.cs.quickconnect.to
+#sgr4.re.cs.quickconnect.to
+#usr1.re.cs.quickconnect.to
+#usr2.re.cs.quickconnect.to
+#usr3.re.cs.quickconnect.to
+#usr5.re.cs.quickconnect.to
+#usr6.re.cs.quickconnect.to
+#cnr1.re.cs.quickconnect.cn
+#cnr2.re.cs.quickconnect.cn
+#cnr3.re.cs.quickconnect.cn
+#cnr5.re.cs.quickconnect.cn
+#cnr6.re.cs.quickconnect.cn
+#apiauth.quickconnect.to
+#checkipv6.quickconnect.to
+#checkip.webrtc.quickconnect.cn
+#checkip.webrtc.quickconnect.to
+#orch.lp.cs.quickconnect.to
+#frch.lp.cs.quickconnect.to
+#cnch.lp.cs.quickconnect.cn
+###База данных маршрутизатора / UPnP###
+download.synology.com/routerdb
+###Консультант по безопасности###
+dataupdate.synology.com
+###Центр поддержки###
+account.synology.com
+kb.synology.com
+www.synology.com/company/legal/Services_Data_Collection_Disclosure#technical-support
+www.synology.com/company/legal/privacy
+###Сайт для скачивания пакета обновления HDD/ SSD Synology###
+dataupdate7.synology.com
+dataautoupdate7.synology.com
+dataautoupdate7.synology.cn
+###Средство загрузки результатов совместимости UPnP###
+report.synology.com/upload.php
+###Advanced Media Extensions###
+#myds.synology.com
+#license.synology.com
+###Antivirus Essential###
+database.clamav.net
+myds.synology.com
+###Antivirus by McAfee###
+update.nai.com
+account.synology.com
+payment.synology.com
+myds.synology.com
+###Периферийный сервер C2 Identity###
+#docker.io
+identity.eu.c2.synology.com
+identity.tw.c2.synology.com
+identity.us.c2.synology.com
+ldap.identity.eu.c2.synology.com
+ldap.identity.tw.c2.synology.com
+ldap.identity.us.c2.synology.com
+###Cloud Station###
+update.synology.com
+global.download.synology.com
+global.synologydownload.com
+###Cloud Sync###
+update.synology.com
+synocloudsync.synology.com
+###Активация кодека###
+#codecstatistic.synology.com/codec_feedback.php
+###Container Manager###
+#docker.io
+#registry-1.docker.io
+#registry.hub.docker.com
+#index.docker.io
+#dev.aliyun.com
+###Docker###
+#docker.io
+#registry-1.docker.io
+#registry.hub.docker.com
+#dev.aliyun.com
+###Download Station###
+update.synology.com/filehostupdate/getfilehosts.php
+update.synology.com/btsearchupdate/getServerInfo.php
+###Hybrid Share###
+eu.c2.synology.com
+tw.c2.synology.com
+us.c2.synology.com
+###Hyper Backup to C2 Storage###
+eu.c2.synology.com
+tw.c2.synology.com
+us.c2.synology.com
+###MailPlus Server###
+license.synology.com
+###Photo Station###
+update.synology.com
+###Surveillance Station###
+utyupdate.synology.com
+synosurveillance.synology.com
+###Synology Drive Server###
+update.synology.com
+global.download.synology.com
+global.synologydownload.com
+###Synology Moments###
+global.geo.synology.com/multilingual_reverse.php
+###Synology Office###
+help.synology.com/spreadsheet/
+###Synology Photos###
+global.geo.synology.com/multilingual_reverse.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
